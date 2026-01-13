@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Aryan 🙂:
 I am currently working on Audio Language Models.<br>Build crop disease detection system using CNN and Transfer Learning techniques.<br>Looking forward to collaborate for deep learning projects.<br>Happy Learning. 
 
 
